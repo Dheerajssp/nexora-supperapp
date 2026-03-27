@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Home, User, Settings, LogOut, ArrowLeft, Phone, Shield, Camera, Upload, Send, MapPin } from 'lucide-react';
+import { Hom, User, Settings, LogOut, ArrowLeft, Phone, Shield, Camera, Upload, Send, MapPin } from 'lucide-react';
 
 function App() {
   const [currentPage, setCurrentPage] = useState('home');
